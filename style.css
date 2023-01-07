@@ -1,0 +1,30 @@
+#tekst_sverhu_kartinki {
+
+position: relative;
+
+}
+
+.tekst_sverhu_kartinki_1 {
+
+
+
+
+
+color: #658668;
+
+width: 630px;
+height: 410px;
+
+background-image: url("../png/hh.png")
+
+}
+
+.tekst_sverhu_kartinki_1 >  span {
+
+font: bold 24px/44px Helvetica, Sans-Serif;
+
+background: #34444444;
+
+padding: 8px;
+
+}
